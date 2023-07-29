@@ -1,5 +1,5 @@
-# complexity O(log2n) -> Binary Search  result max step program
-# complexity O(n) -> simple search      result max step program
+# complexity O(log2n) -> Binary Search  result max step program sec
+# complexity O(n) -> simple search      result max step program sec
 list = range(1,101)
 print(len(list))
 item = int(input("Enter number "))
