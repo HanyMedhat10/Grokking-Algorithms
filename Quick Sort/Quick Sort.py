@@ -1,4 +1,6 @@
-# O(N log(N))
+# O(N log(N)) best case and average case
+#  O(N**2)=(N*N) worst case 
+# import numpy as np
 def quickSort(array):
     if len(array) < 2:
         return array
@@ -9,3 +11,6 @@ def quickSort(array):
         return quickSort(less)+ [pivot] + quickSort(greater)
 
 print(quickSort([10,5,2,3]))
+# arr = np.random.randint(0, 100, size=50)
+# print(arr)
+# print(quickSort(arr))
