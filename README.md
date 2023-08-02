@@ -2,3 +2,10 @@
  - Binary Search ch 1
  - Selection Sort ch 2
  - Hash Tables ch 3
+ - Quick Sort ch 4
+ - Hash Tables ch 5
+ - Breadth first ch 6
+ - Dijkstra`s ch 7
+ - Greedy ch 8
+ - Dynamic ch 9
+ - K Nearest Neighbors ch 10 
